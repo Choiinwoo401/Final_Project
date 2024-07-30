@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>-1</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0.615565299987793</HistMin>
+        <HistMax>25.45855140686035</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>5|16|23|85|171|324|591|994|1542|2257|2912|3590|4274|5023|5804|6332|6919|7676|8291|8740|9333|9594|9865|10054|10256|10453|10303|10206|10054|10008|9848|9514|9150|9217|8822|8721|8132|7790|7615|7505|7135|6892|6666|6480|6380|6079|6198|5930|5995|5582|5923|5458|5376|5354|5278|5150|5139|5001|5032|5048|4671|4740|4493|4433|4255|4024|3946|3963|3763|3706|3453|3295|3370|3304|3149|3001|2869|2633|2588|2389|2323|2289|2175|2083|2006|1844|1653|1571|1455|1377|1278|1130|989|868|873|794|653|549|528|488|409|422|409|378|294|307|299|256|221|250|229|250|248|195|175|147|149|136|104|115|86|103|84|84|65|89|64|54|49|48|46|28|34|37|41|57|45|34|44|43|33|19|31|25|31|24|31|24|10|13|18|20|15|19|22|12|22|13|24|15|15|11|14|4|16|8|16|7|22|9|7|8|5|7|14|9|7|12|5|10|6|6|5|13|3|6|4|9|6|8|11|13|7|6|5|9|1|4|5|3|4|3|4|4|2|3|1|1|2|1|0|3|2|1|0|2|2|1|1|0|0|1|1|1|1|0|2|0|1|0|0|1|1|0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">4.921638291280978</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">-1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

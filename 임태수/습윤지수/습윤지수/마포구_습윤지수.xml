@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>-1</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0.6925156712532044</HistMin>
+        <HistMax>22.13898468017578</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>9|18|33|75|151|291|451|701|1026|1381|1810|2167|2650|3116|3349|3910|4171|4563|4867|5128|5252|5512|5580|5897|6018|6182|6165|6367|6454|6671|6760|6592|6780|6880|6844|6979|6854|6811|6863|6791|6716|6513|6627|6453|6143|6137|6214|6011|5933|5798|5715|5740|5519|5435|5320|5271|5090|5088|5140|5053|4859|4826|4777|4539|4487|4290|4257|3998|3869|3833|3776|3590|3426|3319|3281|3167|2997|3009|2873|2770|2654|2632|2517|2373|2229|2238|2188|2046|1973|1814|1865|1770|1629|1537|1535|1524|1597|1576|1640|1663|1443|1276|1078|1018|871|831|768|681|662|611|575|461|428|403|383|347|356|327|296|256|247|200|212|209|219|191|168|168|163|152|125|135|137|116|85|67|77|98|96|90|70|67|69|54|64|62|36|48|39|41|46|36|32|24|20|36|25|23|25|20|28|31|31|14|20|21|15|14|17|17|13|15|11|9|7|9|15|10|19|11|13|11|20|16|16|14|17|13|13|9|13|8|10|4|8|6|6|4|7|10|3|6|5|6|2|4|7|1|2|4|2|1|0|2|3|1|0|2|2|0|1|2|2|2|2|5|1|1|4|8|1|1|4|3|1|2|2|0|2|1|0|0|0|1|0|2|1|1|1|1|0|0|2|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">4.71947943282475</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">-1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

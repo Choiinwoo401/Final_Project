@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>-1</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0.631391704082489</HistMin>
+        <HistMax>20.507568359375</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>4|9|9|34|49|89|155|302|381|514|587|744|898|949|1040|1077|1204|1424|1409|1521|1578|1639|1668|1873|1914|1962|2003|2091|2068|2085|2271|2258|2218|2324|2313|2306|2188|2321|2339|2258|2222|2226|2243|2126|2140|2057|2015|2130|2225|2183|2052|2009|2037|1943|2010|1970|1960|1962|1956|1880|1844|1799|1826|1718|1654|1635|1650|1621|1567|1569|1598|1515|1503|1552|1437|1438|1470|1459|1374|1365|1315|1360|1246|1276|1181|1232|1187|1181|1164|1156|1162|1207|1156|1117|1211|1215|1128|1074|1061|949|835|727|674|563|519|454|424|378|345|361|323|291|252|276|240|224|202|206|182|194|182|143|147|115|117|97|121|118|119|117|137|119|95|83|98|79|57|57|48|41|52|54|45|46|51|41|33|34|66|27|32|20|29|26|11|18|33|18|17|20|13|25|23|23|18|16|8|20|12|11|14|13|9|15|4|16|10|7|10|9|5|11|8|6|14|10|6|9|4|5|3|2|5|6|7|4|1|1|2|4|2|2|3|2|2|2|1|3|1|4|3|5|4|7|2|2|4|0|2|1|3|1|6|1|1|4|3|1|0|1|2|0|0|1|0|0|1|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">4.944816657121201</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">-1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

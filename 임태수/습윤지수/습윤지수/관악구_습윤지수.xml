@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>-1</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0.4519025385379791</HistMin>
+        <HistMax>23.11600875854492</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3|9|41|107|178|362|626|1084|1671|2653|3515|4390|5085|5923|6460|6933|7564|8144|8636|9148|9539|9967|10304|10657|10830|10940|10983|11135|11046|10741|10589|10507|10396|9955|9546|9295|9216|8753|8526|8194|8002|7810|7473|7130|6901|6662|6401|6098|5873|5825|5548|5386|5202|5128|4774|4791|4452|4362|4225|4007|3880|3650|3543|3424|3251|3155|3006|2826|2874|2588|2585|2439|2258|2248|2099|2095|2006|1994|1900|1791|1681|1583|1503|1424|1354|1300|1211|1171|1075|1062|953|866|852|734|681|653|591|549|525|483|483|453|444|414|393|342|353|294|311|254|247|252|250|248|232|210|207|187|170|163|156|138|111|89|104|97|111|98|92|96|74|99|112|98|78|71|57|44|52|56|74|46|47|40|28|40|36|30|37|35|41|40|31|30|20|18|23|22|20|21|40|21|23|11|14|18|17|17|13|18|12|18|8|9|4|9|3|3|9|3|7|7|4|2|5|5|3|4|3|3|6|6|8|5|3|2|1|5|0|2|1|2|1|3|0|0|3|0|1|0|0|0|2|2|1|0|0|0|1|1|1|1|0|0|0|0|1|0|0|1|1|0|1|1|1|0|0|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">3.951425138231826</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">-1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
